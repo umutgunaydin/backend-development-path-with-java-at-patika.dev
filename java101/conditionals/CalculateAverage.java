@@ -8,37 +8,35 @@ public class CalculateAverage {
          Turkish, History, Music courses from the user and calculates the averages
          and prints them on the screen with Java.
          */
-        Scanner input=new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
-        int math,phys,chem,turk,hist,mus;
+        int math, phys, chem, turk, hist, mus;
 
         System.out.print("Input Score of Math:");
-        math=input.nextInt();
+        math = input.nextInt();
 
         System.out.print("Input Score of Physics:");
-        phys=input.nextInt();
+        phys = input.nextInt();
 
         System.out.print("Input Score of Chemistry:");
-        chem=input.nextInt();
+        chem = input.nextInt();
 
         System.out.print("Input Score of Turkish:");
-        turk=input.nextInt();
+        turk = input.nextInt();
 
         System.out.print("Input Score of History:");
-        hist=input.nextInt();
+        hist = input.nextInt();
 
         System.out.print("Input Score of Music:");
-        mus =input.nextInt();
+        mus = input.nextInt();
 
-        int sum=math+phys+chem+turk+hist+mus;
+        int sum = math + phys + chem + turk + hist + mus;
 
-        double average=sum/6.0;
+        double average = sum / 6.0;
 
         System.out.println("Average = " + average);
 
-        if (average>60) System.out.println("Passed");
-        else System.out.println("Failed");
-
+        System.out.println((average > 60) ? "Passed" : "Failed");
 
 
     }
