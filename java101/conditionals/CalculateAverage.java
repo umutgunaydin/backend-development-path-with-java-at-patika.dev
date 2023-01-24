@@ -1,4 +1,4 @@
-package java101;
+package java101.conditionals;
 
 public class CalculateAverage {
 }
