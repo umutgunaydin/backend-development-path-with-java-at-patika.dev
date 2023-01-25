@@ -11,10 +11,10 @@ public class BodyMassIndex {
 
         Scanner input=new Scanner(System.in);
 
-        System.out.println("Enter your weight:");
+        System.out.println("Enter your weight as kg:");
         double weight= input.nextDouble();
 
-        System.out.println("Enter your height");
+        System.out.println("Enter your height as meter:");
         double height= input.nextDouble();
 
         double massIndex=weight/(height*height);
