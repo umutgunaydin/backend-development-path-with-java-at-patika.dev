@@ -17,7 +17,7 @@ public class ZodiacCalculator {
                 System.out.println("Monkey");
                 break;
             case 1:
-                System.out.println("Cockerel");
+                System.out.println("Rooster");
                 break;
             case 2:
                 System.out.println("Dog");
