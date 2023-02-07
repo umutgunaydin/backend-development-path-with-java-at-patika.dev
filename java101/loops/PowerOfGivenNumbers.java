@@ -11,7 +11,6 @@ public class PowerOfGivenNumbers {
 
         System.out.println("Enter the base number:");
         int base = input.nextInt();
-
         System.out.println("Enter the power number:");
         int power = input.nextInt();
 
