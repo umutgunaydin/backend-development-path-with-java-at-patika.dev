@@ -9,7 +9,7 @@ public class FibonacciSeries {
         System.out.println("Enter the number of elements:");
         int number=input.nextInt();
 
-        int element1=0;
+        int element1=1;
         int element2=1;
         System.out.print(element1+" "+element2+" ");
 
