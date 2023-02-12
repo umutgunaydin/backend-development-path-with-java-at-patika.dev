@@ -15,7 +15,11 @@ public class Course {
     }
 
     public void addTeacher(Teacher teacher){
-        this.teacher=teacher;
+        if (teacher.branch.equals(this.name)) {
+            this.teacher = teacher;
+        }else{
+            System.out.println("Branch of teacher is not matching with the course!");
+        }
     }
     public void printTeacherInfo(){
         this.teacher.print();
