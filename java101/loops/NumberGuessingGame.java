@@ -21,6 +21,7 @@ public class NumberGuessingGame {
             }
             if (guess==random){
                 System.out.println("Congrats! You have guessed correctly!");
+                break;
             }else if (guess>random&&right>=1){
                 System.out.println("Unfortunately incorrect guess! Your guess is higher..Try again..You have "+right+" rights remained!");
             } else if (guess<random&&right>=1){
