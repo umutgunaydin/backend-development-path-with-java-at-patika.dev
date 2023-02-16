@@ -13,8 +13,12 @@ public class NumberGuessingGame {
 
         int right=5;
         while (right-->0){
-            System.out.println("Enter your guess:");
+            System.out.println("Enter your guess between [0,100]:");
             int guess=input.nextInt();
+            if (guess<0||guess>100){
+                System.out.println("Please enter your guess between given interval again! You have "+right+" rights remained!");
+                continue;
+            }
             if (guess==random){
                 System.out.println("Congrats! You have guessed correctly!");
             }else if (guess>random&&right>=1){
