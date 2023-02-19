@@ -49,8 +49,8 @@ public class MineSweeper {
             }
         }
 
-        int numberOfTry=0;
-        while (++numberOfTry<=row*column-numberOfMines) {
+        int numberOfTry=1;
+        while (numberOfTry<=row*column-numberOfMines) {
             System.out.println("=====================");
             System.out.println("Welcome to Minefield!");
             printGameTable(runningGame);
@@ -58,6 +58,8 @@ public class MineSweeper {
             int rowNumber= input.nextInt()-1;
             System.out.print("Enter column number:");
             int columnNumber= input.nextInt()-1;
+            if (rowNumber<0||rowNumber>runningGame.length-1||columnNumber<0||columnNumber>runningGame[0].length) continue;
+            numberOfTry++;
             if (gameField[rowNumber][columnNumber].equals("*")){
                 System.out.println("Game Over!");
                 return;
