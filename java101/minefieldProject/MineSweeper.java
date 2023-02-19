@@ -62,6 +62,34 @@ public class MineSweeper {
                 System.out.println("Game Over!");
                 return;
             }
+            else{
+                int numberOfNearMines=0;
+                if (rowNumber>0&&columnNumber>0&&gameField[rowNumber-1][columnNumber-1].equals("*")){
+                    numberOfNearMines++;
+                }
+                if (rowNumber>0&&gameField[rowNumber-1][columnNumber].equals("*")){
+                    numberOfNearMines++;
+                }
+                if (rowNumber>0&&columnNumber<gameField[0].length-1&&gameField[rowNumber-1][columnNumber+1].equals("*")){
+                    numberOfNearMines++;
+                }
+                if (columnNumber>0&&gameField[rowNumber][columnNumber-1].equals("*")){
+                    numberOfNearMines++;
+                }
+                if (columnNumber<gameField[0].length-1&&gameField[rowNumber][columnNumber+1].equals("*")){
+                    numberOfNearMines++;
+                }
+                if (rowNumber<gameField.length-1&&columnNumber>0&&gameField[rowNumber+1][columnNumber-1].equals("*")){
+                    numberOfNearMines++;
+                }
+                if (rowNumber<gameField.length-1&&gameField[rowNumber+1][columnNumber].equals("*")){
+                    numberOfNearMines++;
+                }
+                if (rowNumber<gameField.length-1&&columnNumber<gameField[0].length-1&&gameField[rowNumber+1][columnNumber+1].equals("*")){
+                    numberOfNearMines++;
+                }
+                runningGame[rowNumber][columnNumber]=""+numberOfNearMines;
+            }
         }
     }
 
