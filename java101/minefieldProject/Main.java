@@ -7,9 +7,9 @@ public class Main {
 
         Scanner input=new Scanner(System.in);
 
-        System.out.println("Enter number of rows:");
+        System.out.print("Enter number of rows:");
         int row= input.nextInt();
-        System.out.println("Enter number of columns");
+        System.out.print("Enter number of columns:");
         int columns= input.nextInt();
 
         MineSweeper mineSweeper=new MineSweeper(row,columns);
