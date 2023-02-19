@@ -49,8 +49,8 @@ public class MineSweeper {
             }
         }
 
-        boolean hasRight = true;
-        while (hasRight) {
+        int numberOfTry=0;
+        while (++numberOfTry<=row*column-numberOfMines) {
             System.out.println("=====================");
             System.out.println("Welcome to Minefield!");
             printGameTable(runningGame);
@@ -91,6 +91,8 @@ public class MineSweeper {
                 runningGame[rowNumber][columnNumber]=""+numberOfNearMines;
             }
         }
+        System.out.println("Congrats! You won!");
+        printGameTable(runningGame);
     }
 
     void printGameTable(String[][] game){
