@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="changed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;umutgunaydin&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;umutgunaydin&quot;
+  }
+}</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="210c23ce4d55a1d92edd7fcafbbf789e239b94c4" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fc7c500f-fb42-479c-971f-99218690c9e0" />
+        <option name="url" value="https://github.com/umutgunaydin/backend-development-path-with-java-at-patika.dev.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Klvr10kFScyWKZVczbv0aICwLb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/umutgunaydin/Desktop/Patika.dev/backend-development-path-with-java-at-patika.dev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java101.minefieldProject.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java101.minefieldProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java101.arrays.MatrixTranspose" />
+      <module name="backend-development-path-with-java-at-patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java101.arrays.subarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java101.loops.NumberGuessingGame" />
+      <module name="backend-development-path-with-java-at-patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java101.functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java101.functions.PalindromeWords" />
+      <module name="backend-development-path-with-java-at-patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java101.functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java101.arrays.subarray.SubArrays" />
+      <module name="backend-development-path-with-java-at-patika.dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java101.arrays.subarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="backend-web-development-path-with-java-at-patika.dev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="backend-web-development-path-with-java-at-patika.dev" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PalindromeWords" />
+        <item itemvalue="Application.NumberGuessingGame" />
+        <item itemvalue="Application.SubArrays" />
+        <item itemvalue="Application.MatrixTranspose" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="" />
+      <created>1674562178531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674562178531</updated>
+      <workItem from="1674562180376" duration="3837000" />
+      <workItem from="1674566075401" duration="526000" />
+      <workItem from="1674566621948" duration="95000" />
+      <workItem from="1674566971454" duration="1082000" />
+      <workItem from="1674568075940" duration="95000" />
+      <workItem from="1674568179701" duration="322000" />
+      <workItem from="1674568529409" duration="122000" />
+      <workItem from="1674598739286" duration="477000" />
+      <workItem from="1674661606886" duration="10000" />
+      <workItem from="1674668021284" duration="2020000" />
+      <workItem from="1674722253559" duration="609000" />
+      <workItem from="1674816003959" duration="1698000" />
+      <workItem from="1674990672622" duration="8000" />
+      <workItem from="1675429557437" duration="4784000" />
+      <workItem from="1675544319104" duration="1239000" />
+      <workItem from="1675693463306" duration="3583000" />
+      <workItem from="1675759152102" duration="5473000" />
+      <workItem from="1675852910744" duration="5230000" />
+      <workItem from="1675880676980" duration="46000" />
+      <workItem from="1676033103130" duration="2995000" />
+      <workItem from="1676048037913" duration="600000" />
+      <workItem from="1676113398962" duration="378000" />
+      <workItem from="1676144598906" duration="5393000" />
+      <workItem from="1676232945490" duration="5499000" />
+      <workItem from="1676319987880" duration="2410000" />
+      <workItem from="1676402724164" duration="4247000" />
+      <workItem from="1676462205644" duration="3759000" />
+      <workItem from="1676553579746" duration="2053000" />
+      <workItem from="1676641320455" duration="18000" />
+      <workItem from="1676833259097" duration="5618000" />
+      <workItem from="1676886638305" duration="185000" />
+      <workItem from="1676894797498" duration="840000" />
+      <workItem from="1676987441513" duration="165000" />
+      <workItem from="1676987612891" duration="163000" />
+      <workItem from="1676987780983" duration="114000" />
+      <workItem from="1676988544580" duration="9000" />
+      <workItem from="1676988758756" duration="2000" />
+      <workItem from="1676989014035" duration="313000" />
+    </task>
+    <task id="LOCAL-00038" summary="power of given numbers created">
+      <created>1675784334040</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1675784334040</updated>
+    </task>
+    <task id="LOCAL-00039" summary="power of given numbers created">
+      <created>1675784874353</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1675784874353</updated>
+    </task>
+    <task id="LOCAL-00040" summary="harmonic series created">
+      <created>1675853506450</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1675853506451</updated>
+    </task>
+    <task id="LOCAL-00041" summary="triangle with stars created">
+      <created>1675853929095</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1675853929095</updated>
+    </task>
+    <task id="LOCAL-00042" summary="diamond with stars created">
+      <created>1675854199142</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1675854199142</updated>
+    </task>
+    <task id="LOCAL-00043" summary="ATM project created">
+      <created>1675855575656</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1675855575656</updated>
+    </task>
+    <task id="LOCAL-00044" summary="greatest common divisor and least common floor created">
+      <created>1675856538942</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1675856538942</updated>
+    </task>
+    <task id="LOCAL-00045" summary="minimum number finder created">
+      <created>1675857318218</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1675857318218</updated>
+    </task>
+    <task id="LOCAL-00046" summary="minimum and maximum number finder created">
+      <created>1675857455316</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1675857455316</updated>
+    </task>
+    <task id="LOCAL-00047" summary="perfect number finder created">
+      <created>1676033503223</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1676033503223</updated>
+    </task>
+    <task id="LOCAL-00048" summary="perfect number finder README file created">
+      <created>1676033522223</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1676033522223</updated>
+    </task>
+    <task id="LOCAL-00049" summary="inverted triangle created">
+      <created>1676033837312</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1676033837313</updated>
+    </task>
+    <task id="LOCAL-00050" summary="prime numbers finder created">
+      <created>1676034517727</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1676034517728</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fibonacci series created">
+      <created>1676035147159</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1676035147159</updated>
+    </task>
+    <task id="LOCAL-00052" summary="fibonacci series readme file created">
+      <created>1676035162712</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1676035162712</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fibonacci series readme file created">
+      <created>1676035361680</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1676035361680</updated>
+    </task>
+    <task id="LOCAL-00054" summary="palindrome number checker created">
+      <created>1676145001034</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1676145001034</updated>
+    </task>
+    <task id="LOCAL-00055" summary="recursive fibonacci series created">
+      <created>1676145507281</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1676145507281</updated>
+    </task>
+    <task id="LOCAL-00056" summary="advanced calculator created">
+      <created>1676146946679</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1676146946679</updated>
+    </task>
+    <task id="LOCAL-00057" summary="recursive exponentiation created">
+      <created>1676147719383</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1676147719383</updated>
+    </task>
+    <task id="LOCAL-00058" summary="recursive prime number checker created">
+      <created>1676148422454</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1676148422454</updated>
+    </task>
+    <task id="LOCAL-00059" summary="game of five created">
+      <created>1676149686688</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1676149686688</updated>
+    </task>
+    <task id="LOCAL-00060" summary="classes created">
+      <created>1676149802924</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1676149802924</updated>
+    </task>
+    <task id="LOCAL-00061" summary="teacher class created">
+      <created>1676233332738</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1676233332739</updated>
+    </task>
+    <task id="LOCAL-00062" summary="course class created">
+      <created>1676233869535</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1676233869535</updated>
+    </task>
+    <task id="LOCAL-00063" summary="student class created and all classes are tested">
+      <created>1676234945979</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1676234945979</updated>
+    </task>
+    <task id="LOCAL-00064" summary="boxing game created">
+      <created>1676237268615</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1676237268615</updated>
+    </task>
+    <task id="LOCAL-00065" summary="employee class and salary calculator created">
+      <created>1676320736535</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1676320736535</updated>
+    </task>
+    <task id="LOCAL-00066" summary="average of array elements created">
+      <created>1676321064116</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1676321064116</updated>
+    </task>
+    <task id="LOCAL-00067" summary="max and min of array created">
+      <created>1676321799998</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1676321799998</updated>
+    </task>
+    <task id="LOCAL-00068" summary="printing B with stars created">
+      <created>1676403545615</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1676403545616</updated>
+    </task>
+    <task id="LOCAL-00069" summary="repeating numbers created">
+      <created>1676404364315</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1676404364315</updated>
+    </task>
+    <task id="LOCAL-00070" summary="ascending sort created">
+      <created>1676404929205</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1676404929205</updated>
+    </task>
+    <task id="LOCAL-00071" summary="frequency of numbers created">
+      <created>1676405774781</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1676405774781</updated>
+    </task>
+    <task id="LOCAL-00072" summary="matrix Transpose created">
+      <created>1676462710949</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1676462710949</updated>
+    </task>
+    <task id="LOCAL-00073" summary="java subarray created">
+      <created>1676463996317</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1676463996317</updated>
+    </task>
+    <task id="LOCAL-00074" summary="java subarray README file created">
+      <created>1676464415269</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1676464415269</updated>
+    </task>
+    <task id="LOCAL-00075" summary="number guessing game created">
+      <created>1676554366144</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1676554366144</updated>
+    </task>
+    <task id="LOCAL-00076" summary="number guessing game updated">
+      <created>1676554623878</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1676554623878</updated>
+    </task>
+    <task id="LOCAL-00077" summary="number guessing game updated">
+      <created>1676554805078</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1676554805078</updated>
+    </task>
+    <task id="LOCAL-00078" summary="palindrome words created">
+      <created>1676834085600</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1676834085601</updated>
+    </task>
+    <task id="LOCAL-00079" summary="placeMines and run methods are partially created and tested">
+      <created>1676836319367</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1676836319367</updated>
+    </task>
+    <task id="LOCAL-00080" summary="game over part is finished and tested">
+      <created>1676837098258</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1676837098258</updated>
+    </task>
+    <task id="LOCAL-00081" summary="number of near mines finding part is finished and tested">
+      <created>1676837915428</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1676837915428</updated>
+    </task>
+    <task id="LOCAL-00082" summary="minefield project is finished">
+      <created>1676838328993</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1676838328993</updated>
+    </task>
+    <task id="LOCAL-00083" summary="minefield project is revised and README file is created">
+      <created>1676838765010</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1676838765010</updated>
+    </task>
+    <task id="LOCAL-00084" summary=".gitignore is created">
+      <created>1676987542248</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1676987542249</updated>
+    </task>
+    <task id="LOCAL-00085" summary=".gitignore is created">
+      <created>1676987664502</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1676987664502</updated>
+    </task>
+    <task id="LOCAL-00086" summary="changed">
+      <created>1676987858376</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1676987858376</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="classes created" />
+    <MESSAGE value="teacher class created" />
+    <MESSAGE value="course class created" />
+    <MESSAGE value="student class created and all classes are tested" />
+    <MESSAGE value="boxing game created" />
+    <MESSAGE value="employee class and salary calculator created" />
+    <MESSAGE value="average of array elements created" />
+    <MESSAGE value="max and min of array created" />
+    <MESSAGE value="printing B with stars created" />
+    <MESSAGE value="repeating numbers created" />
+    <MESSAGE value="ascending sort created" />
+    <MESSAGE value="frequency of numbers created" />
+    <MESSAGE value="matrix Transpose created" />
+    <MESSAGE value="java subarray created" />
+    <MESSAGE value="java subarray README file created" />
+    <MESSAGE value="number guessing game created" />
+    <MESSAGE value="number guessing game updated" />
+    <MESSAGE value="palindrome words created" />
+    <MESSAGE value="placeMines and run methods are partially created and tested" />
+    <MESSAGE value="game over part is finished and tested" />
+    <MESSAGE value="number of near mines finding part is finished and tested" />
+    <MESSAGE value="minefield project is finished" />
+    <MESSAGE value="minefield project is revised and README file is created" />
+    <MESSAGE value=".gitignore is created" />
+    <MESSAGE value="changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed" />
+  </component>
+</project>
