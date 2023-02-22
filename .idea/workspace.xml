@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="ok hope so" />
+    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment=".gitignore updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,20 +211,6 @@
       <workItem from="1676989014035" duration="313000" />
       <workItem from="1677079909282" duration="5000" />
       <workItem from="1677079924904" duration="31000" />
-    </task>
-    <task id="LOCAL-00038" summary="power of given numbers created">
-      <created>1675784334040</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1675784334040</updated>
-    </task>
-    <task id="LOCAL-00039" summary="power of given numbers created">
-      <created>1675784874353</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1675784874353</updated>
     </task>
     <task id="LOCAL-00040" summary="harmonic series created">
       <created>1675853506450</created>
@@ -555,7 +541,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676987858376</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="changed">
+      <created>1677095638650</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1677095638651</updated>
+    </task>
+    <task id="LOCAL-00088" summary=".gitignore updated">
+      <created>1677101330380</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1677101330380</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +597,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="classes created" />
     <MESSAGE value="teacher class created" />
     <MESSAGE value="course class created" />
     <MESSAGE value="student class created and all classes are tested" />
@@ -622,6 +621,7 @@
     <MESSAGE value="minefield project is revised and README file is created" />
     <MESSAGE value=".gitignore is created" />
     <MESSAGE value="changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed" />
+    <MESSAGE value=".gitignore updated" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore updated" />
   </component>
 </project>
