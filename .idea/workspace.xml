@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="changed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="ok hope so" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +75,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MatrixTranspose">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java101.minefieldProject.Main" />
       <extension name="coverage">
@@ -157,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixTranspose" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PalindromeWords" />
         <item itemvalue="Application.NumberGuessingGame" />
         <item itemvalue="Application.SubArrays" />
-        <item itemvalue="Application.MatrixTranspose" />
       </list>
     </recent_temporary>
   </component>
@@ -586,7 +584,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>

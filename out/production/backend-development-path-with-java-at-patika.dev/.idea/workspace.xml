@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="minefield project is revised and README file is created" />
+    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="ok hope so" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +19,13 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -50,7 +54,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Klvr10kFScyWKZVczbv0aICwLb" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -71,10 +75,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MatrixTranspose">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java101.minefieldProject.Main" />
-      <module name="backend-development-path-with-java-at-patika.dev" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java101.minefieldProject.*" />
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixTranspose" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PalindromeWords" />
         <item itemvalue="Application.NumberGuessingGame" />
         <item itemvalue="Application.SubArrays" />
-        <item itemvalue="Application.MatrixTranspose" />
       </list>
     </recent_temporary>
   </component>
@@ -199,28 +202,15 @@
       <workItem from="1676641320455" duration="18000" />
       <workItem from="1676833259097" duration="5618000" />
       <workItem from="1676886638305" duration="185000" />
-      <workItem from="1676894797498" duration="669000" />
-    </task>
-    <task id="LOCAL-00035" summary="combination calculator created">
-      <created>1675760947464</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1675760947464</updated>
-    </task>
-    <task id="LOCAL-00036" summary="combination calculator created">
-      <created>1675784238181</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1675784238181</updated>
-    </task>
-    <task id="LOCAL-00037" summary="power of given numbers created">
-      <created>1675784311146</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1675784311146</updated>
+      <workItem from="1676894797498" duration="840000" />
+      <workItem from="1676987441513" duration="165000" />
+      <workItem from="1676987612891" duration="163000" />
+      <workItem from="1676987780983" duration="114000" />
+      <workItem from="1676988544580" duration="9000" />
+      <workItem from="1676988758756" duration="2000" />
+      <workItem from="1676989014035" duration="313000" />
+      <workItem from="1677079909282" duration="5000" />
+      <workItem from="1677079924904" duration="31000" />
     </task>
     <task id="LOCAL-00038" summary="power of given numbers created">
       <created>1675784334040</created>
@@ -544,7 +534,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676838765010</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary=".gitignore is created">
+      <created>1676987542248</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1676987542249</updated>
+    </task>
+    <task id="LOCAL-00085" summary=".gitignore is created">
+      <created>1676987664502</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1676987664502</updated>
+    </task>
+    <task id="LOCAL-00086" summary="changed">
+      <created>1676987858376</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1676987858376</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +584,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -586,8 +597,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="recursive prime number checker created" />
-    <MESSAGE value="game of five created" />
     <MESSAGE value="classes created" />
     <MESSAGE value="teacher class created" />
     <MESSAGE value="course class created" />
@@ -611,6 +620,8 @@
     <MESSAGE value="number of near mines finding part is finished and tested" />
     <MESSAGE value="minefield project is finished" />
     <MESSAGE value="minefield project is revised and README file is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="minefield project is revised and README file is created" />
+    <MESSAGE value=".gitignore is created" />
+    <MESSAGE value="changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed" />
   </component>
 </project>
