@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="changed" />
+    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="changed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Klvr10kFScyWKZVczbv0aICwLb" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -209,6 +211,8 @@
       <workItem from="1676988544580" duration="9000" />
       <workItem from="1676988758756" duration="2000" />
       <workItem from="1676989014035" duration="313000" />
+      <workItem from="1677079909282" duration="5000" />
+      <workItem from="1677079924904" duration="31000" />
     </task>
     <task id="LOCAL-00038" summary="power of given numbers created">
       <created>1675784334040</created>
