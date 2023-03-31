@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment=".gitignore updated">
-      <change afterPath="$PROJECT_DIR$/java102/adventureGame/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java102/adventureGame/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java102/adventureGame/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java102/adventureGame/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java102/adventureGame/gameCharacters/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java102/adventureGame/gameCharacters/GameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java102/adventureGame/gameCharacters/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java102/adventureGame/gameCharacters/Samurai.java" afterDir="false" />
+    <list default="true" id="72a75a98-44af-4c90-886d-5e6980396d5f" name="Changes" comment="adventureGame package and related classes are created and choosing character part is done">
+      <change afterPath="$PROJECT_DIR$/java101/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java101/minefieldProject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/minefieldProject/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/backend-development-path-with-java-at-patika.dev/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend-development-path-with-java-at-patika.dev/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +81,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.java102.adventureGame.Main">
+  <component name="RunManager" selected="Application.java101.Main">
     <configuration name="Longest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Longest" />
       <module name="backend-development-path-with-java-at-patika.dev" />
@@ -107,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java101.arrays.MatrixTranspose" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java101.Solution" />
       <module name="backend-development-path-with-java-at-patika.dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java101.arrays.subarray.*" />
+          <option name="PATTERN" value="java101.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java101.Solution" />
+    <configuration name="java101.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java101.Main" />
       <module name="backend-development-path-with-java-at-patika.dev" />
       <extension name="coverage">
         <pattern>
@@ -161,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.java102.adventureGame.Main" />
-        <item itemvalue="Application.Longest" />
+        <item itemvalue="Application.java101.Main" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MatrixTranspose" />
+        <item itemvalue="Application.java102.adventureGame.Main" />
+        <item itemvalue="Application.Longest" />
       </list>
     </recent_temporary>
   </component>
@@ -225,14 +220,13 @@
       <workItem from="1677365680881" duration="87000" />
       <workItem from="1678037758606" duration="3848000" />
       <workItem from="1678047160382" duration="165000" />
-      <workItem from="1678104736721" duration="3408000" />
-    </task>
-    <task id="LOCAL-00041" summary="triangle with stars created">
-      <created>1675853929095</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1675853929095</updated>
+      <workItem from="1678104736721" duration="4371000" />
+      <workItem from="1678490413130" duration="761000" />
+      <workItem from="1678908960021" duration="190000" />
+      <workItem from="1679060691571" duration="389000" />
+      <workItem from="1679314772036" duration="159000" />
+      <workItem from="1680291649431" duration="1449000" />
+      <workItem from="1680295956280" duration="3025000" />
     </task>
     <task id="LOCAL-00042" summary="diamond with stars created">
       <created>1675854199142</created>
@@ -570,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677101490794</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="adventureGame package and related classes are created and choosing character part is done">
+      <created>1678108433303</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1678108433304</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="teacher class created" />
     <MESSAGE value="course class created" />
     <MESSAGE value="student class created and all classes are tested" />
     <MESSAGE value="boxing game created" />
@@ -637,6 +637,7 @@
     <MESSAGE value=".gitignore is created" />
     <MESSAGE value="changed" />
     <MESSAGE value=".gitignore updated" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore updated" />
+    <MESSAGE value="adventureGame package and related classes are created and choosing character part is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="adventureGame package and related classes are created and choosing character part is done" />
   </component>
 </project>
